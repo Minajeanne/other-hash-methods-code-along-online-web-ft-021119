@@ -10,3 +10,4 @@ groceries = {
 def get_the_values(groceries)
   groceries.values
 end
+  get_the_values
